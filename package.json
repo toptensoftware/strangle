@@ -1,0 +1,22 @@
+{
+  "name": "@toptensoftware/strangle",
+  "version": "0.0.1",
+  "description": "STRing wrANGLE tools for JavaScript",
+  "main": "strangle.js",
+  "type": "module",
+  "scripts": {},
+  "author": "Topten Software",
+  "contributors": [
+    {
+      "name": "Brad Robinson",
+      "email": "contact@toptensoftware.com"
+    }
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/toptensoftware/strangle.git"
+  },
+  "license": "Apache-2.0",
+  "dependencies": {
+  }
+}
